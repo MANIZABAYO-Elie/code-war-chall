@@ -13,4 +13,4 @@ function sumOddCubes(arr) {
     .reduce((sum, n) => sum + n, 0); // Sum them
 }
 console.log(sumOddCubes([1, 2, 3, 4]));     // Outputs: 28 (1^3 + 3^3 = 1 + 27)
-onsole.log(sumOddCubes([1, 2, 3, 4]));
+onsole.log(sumOddCubes([6, 8, 9, 12]));
